@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765647,
+    "hash": "c49bd5c91e8a1a22cc425cd2547809c13ce3a61d"
+  },
+  ".hoa/worktree.json": {
+    "size": 3568,
+    "time": 1751764268,
+    "hash": "eb772d20ba5173183b4edc86ffc2cc502872fd68"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086060,
+    "hash": "d5f503d297f79952c00186bab99f2f34bc24b274"
+  },
+  "README.md": {
+    "size": 2204,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1701264897,
+    "hash": "15fac1db320bab96cf1ebb34301014b431a5f8e9"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1701264897,
+    "hash": "15fac1db320bab96cf1ebb34301014b431a5f8e9"
+  },
+  "labs/README.md": {
+    "size": 437,
+    "time": 1701264899,
+    "hash": "bdb13c6a7428ed1e3df9d54352d9d14794db2acc"
+  },
+  "labs/坐标纸.pdf": {
+    "size": 26226,
+    "time": 1701264899,
+    "hash": "bdb13c6a7428ed1e3df9d54352d9d14794db2acc"
+  },
+  "labs/实验报告-22-psp/22-psp-实验一.pdf": {
+    "size": 348447,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告-22-psp/22-psp-实验三.pdf": {
+    "size": 1388696,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告-22-psp/22-psp-实验二.pdf": {
+    "size": 1353041,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告-22-psp/22-psp-实验五.pdf": {
+    "size": 1373106,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告-22-psp/22-psp-实验六.pdf": {
+    "size": 1996155,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告-22-psp/22-psp-实验四.pdf": {
+    "size": 1376663,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验一实验报告.pdf": {
+    "size": 260462,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验三实验报告.pdf": {
+    "size": 285433,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验二实验报告.pdf": {
+    "size": 377190,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验五实验报告.pdf": {
+    "size": 235243,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验六实验报告.pdf": {
+    "size": 426152,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "labs/实验报告模板/实验四实验报告.pdf": {
+    "size": 306287,
+    "time": 1722225102,
+    "hash": "c64f008507187be855912eaa007e5d97ab46f690"
+  },
+  "materials/README.md": {
+    "size": 207,
+    "time": 1701264899,
+    "hash": "bdb13c6a7428ed1e3df9d54352d9d14794db2acc"
+  },
+  "materials/电路实验教程.pdf": {
+    "size": 76981215,
+    "time": 1701264899,
+    "hash": "bdb13c6a7428ed1e3df9d54352d9d14794db2acc"
+  },
+  "notes/README.md": {
+    "size": 70,
+    "time": 1701264899,
+    "hash": "bdb13c6a7428ed1e3df9d54352d9d14794db2acc"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1701264897,
+    "hash": "15fac1db320bab96cf1ebb34301014b431a5f8e9"
+  },
+  "tag.txt": {
+    "size": 67,
+    "time": 1715519679,
+    "hash": "beb443bf60d14b162dd06fbd0fe5ce214f8edead"
+  }
+}
