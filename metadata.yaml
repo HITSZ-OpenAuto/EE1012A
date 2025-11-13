@@ -1,0 +1,128 @@
+ID: "EE1012A"
+SimilarID: []
+Name: "电路实验IA"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "自动化", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1012A"
+  CourseName: "电路实验IA"
+  Credit: "0.5"
+  CourseHour: "12.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: "100"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "12.0"
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "自动化", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1012A"
+  CourseName: "电路实验IA"
+  Credit: "0.5"
+  CourseHour: "12.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: "100"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "12.0"
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "EE1012A"
+  CourseName: "电路实验IA"
+  Credit: "0.5"
+  CourseHour: "12.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: "100"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "12.0"
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "电气", "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "EE1012A"
+  CourseName: "电路实验IA"
+  Credit: "0.5"
+  CourseHour: "12.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: "100"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "12.0"
+
+  Major:
+    - Year: "2023_2024"
+      Name: [  ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "EE1012A"
+  CourseName: "电路实验IA"
+  Credit: "0.5"
+  CourseHour: "12.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: "100"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "12.0"
