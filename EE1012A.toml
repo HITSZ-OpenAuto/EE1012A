@@ -23,8 +23,7 @@ description = "本课程在MOOC上也有教学视频，可以在课前预习观�
 [online_resources.author]
 name = ""
 link = ""
-date = "2023-06-" # The original date was 2023.6, day is missing. Let's make it empty.
-date = ""
+date = "2023-06-01"
 
 [[course]]
 content = """
