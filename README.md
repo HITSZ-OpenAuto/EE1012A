@@ -1,4 +1,6 @@
 # EE1012A - 电路实验IA
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![实验报告100%](https://img.shields.io/badge/实验报告-100%25-wheat)
@@ -10,14 +12,21 @@
 ## 授课教师
 
 - 姜老师
+  <!-- TOML-ITEM: id="review-姜老师-1" -->
   - 授课风格：幽默风趣，认真负责
   - 是否需要认真听讲做笔记：实验过程中的数据会记录，下课前需交给助教检查
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - MOOC 教学视频：本课程在 MOOC 上也有教学视频，可以在课前预习观看，不过其中内容与实际教学存在出入。
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 做实验前一定要先做好预习工作，例如：
 
