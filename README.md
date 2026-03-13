@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 姜老师
   <!-- TOML-ITEM: id="review-姜老师-1" -->
   - 授课风格：幽默风趣，认真负责
