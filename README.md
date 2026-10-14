@@ -1,9 +1,5 @@
 # EE1012A - 电路实验IA
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验报告100%](https://img.shields.io/badge/实验报告-100%25-wheat)
 
 虽然该课属于考察课，且是实验课，但本课程所花费的时间会十分巨大。
 实验本身很有趣，但填写实验报告是一项非常累人的事，所以在课程后期大家都倾向于借鉴他人写好的实验报告略做修改提交（指实验数据以外的部分）。
